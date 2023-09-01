@@ -1,0 +1,4 @@
+requests
+http.client
+spacy
+datetime
